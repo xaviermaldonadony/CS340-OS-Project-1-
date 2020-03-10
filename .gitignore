@@ -1,0 +1,8 @@
+/.metadata/
+*.iml
+*.idea/
+ *.xml/
+ .recommenders/
+ /.idea/workspace.xml
+.classpath
+.project
